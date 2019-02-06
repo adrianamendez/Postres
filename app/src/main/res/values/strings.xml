@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PostresNokia</string>
+    <string name="db_name">desserts.sqlite</string>
+</resources>
